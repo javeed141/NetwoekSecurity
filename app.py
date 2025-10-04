@@ -1,0 +1,1 @@
+print(f"Error occured in python script name {0} line number {1} error message {2}".format("javeed","hia","bai"))
