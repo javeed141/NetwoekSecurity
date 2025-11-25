@@ -1,1 +1,3 @@
-print(f"Error occured in python script name {0} line number {1} error message {2}".format("javeed","hia","bai"))
+import torch
+print(torch.cuda.is_available())
+print(torch.cuda.get_device_name(0) if torch.cuda.is_available() else "No GPU")

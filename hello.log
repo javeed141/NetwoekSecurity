@@ -1,0 +1,4 @@
+2025-10-04 13:05:34,838 - INFO - Program started
+2025-10-04 13:05:34,838 - WARNING - This is a warning
+2025-10-04 13:05:34,839 - ERROR - An error occurred
+2025-10-04 13:05:34,839 - CRITICAL - Critical issue!

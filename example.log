@@ -1,0 +1,12 @@
+2025-10-04 12:59:36,732 - INFO - Program started
+2025-10-04 12:59:36,732 - WARNING - This is a warning
+2025-10-04 12:59:36,732 - ERROR - An error occurred
+2025-10-04 12:59:36,732 - CRITICAL - Critical issue!
+2025-10-04 13:02:19,861 - INFO - Program started
+2025-10-04 13:02:19,861 - WARNING - This is a warning
+2025-10-04 13:02:19,861 - ERROR - An error occurred
+2025-10-04 13:02:19,862 - CRITICAL - Critical issue!
+2025-10-04 13:02:56,229 - INFO - Program started
+2025-10-04 13:02:56,229 - WARNING - This is a warning
+2025-10-04 13:02:56,229 - ERROR - An error occurred
+2025-10-04 13:02:56,229 - CRITICAL - Critical issue!
